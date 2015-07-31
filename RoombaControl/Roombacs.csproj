@@ -7,8 +7,8 @@
     <ProjectGuid>{5839E1BB-9757-4A04-8E6B-DAE8E771F644}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RoombaControl</RootNamespace>
-    <AssemblyName>RoombaControl</AssemblyName>
+    <RootNamespace>Roombacs</RootNamespace>
+    <AssemblyName>Roombacs</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
